@@ -1,0 +1,13 @@
+patch:
+  "preset_color_schemes/nord_dark":
+    author: Xenapte
+    back_color: 0x52423B
+    border_color: 0x52423B
+    candidate_text_color: 0xD0C088
+    comment_text_color: 0xC1A181
+    hilited_back_color: 0x52423B
+    hilited_candidate_back_color: 0x5E4C43
+    hilited_candidate_text_color: 0xC0E077
+    hilited_text_color: 0x8BCBEB
+    name: "Nord Dark"
+    text_color: 0x7087D0
